@@ -1,6 +1,6 @@
 # Soy Elias Oziel Sanchez Fernandez (@Minepacman) 
 
-Ingeniero en Ciencias de la Computación en formación por la Benemérita Universidad Autónoma de Puebla (BUAP). Me apasiona el desarrollo de software, la arquitectura backend, la automatización y la creación de soluciones web robustas e innovadoras.
+Ingeniero en Ciencias de la Computación en formación por la Benemérita Universidad Autónoma de Puebla (BUAP). Me apasiona el desarrollo de software, la arquitectura backend, la automatización y la creación de soluciones mobiles.
 
 ---
 
@@ -40,9 +40,9 @@ A lo largo de mi trayectoria he trabajado y perfeccionado mis habilidades en el 
 
 Estoy abierto a colaborar en proyectos desafiantes y dinámicos, especialmente en:
 -  Desarrollo Backend con **Java (Spring Boot)** o **.NET (ASP.NET MVC)**.
--  Aplicaciones web dinámicas y modernas (MERN stack / arquitecturas desacopladas).
+-  Aplicaciones web dinámicas y modernas.
+-  Aplicaciones mobiles.
 -  Scripts de automatización y proyectos de Inteligencia Artificial con **Python**.
-- Desarrollo de videojuegos (Modelado 3D básico en Blender e integración en Unity).
 
 ---
 
@@ -56,4 +56,7 @@ Estoy abierto a colaborar en proyectos desafiantes y dinámicos, especialmente e
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Minepacman&show_icons=true&theme=visual_studio_code&count_private=true" alt="Estadísticas de GitHub de Minepacman" />
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Minepacman&theme=dark)](https://git.io/streak-stats)
+  
 </p>
