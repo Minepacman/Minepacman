@@ -6,13 +6,10 @@ Ingeniero en Ciencias de la Computación en formación por la Benemérita Univer
 
 ### Sobre mí
 
-- 🎓 Actualmente cursando el ultimo semestres de la carrera en la **BUAP**.
-- 🛠️ Especializado en el desarrollo backend.
-- 🐧 Entusiasta de los entornos Linux (Debian user) y la optimización de entornos de desarrollo.
-- 🎮 En mi tiempo libre disfruto del desarrollo de videojuegos, la creación de contenido y los proyectos de electrónica DIY.
-
+- Actualmente cursando el ultimo semestres de la carrera en la **BUAP**.
+- Especializado en el desarrollo backend.
+- Entusiasta de los entornos Linux (Debian user) y la optimización de entornos de desarrollo.
 ---
-
 ### Tecnologías y Herramientas
 
 A lo largo de mi trayectoria he trabajado y perfeccionado mis habilidades en el siguiente stack:
@@ -35,8 +32,7 @@ A lo largo de mi trayectoria he trabajado y perfeccionado mis habilidades en el 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 ---
-
-### 🎯 Áreas de Interés y Colaboración
+### Áreas de Interés y Colaboración
 
 Estoy abierto a colaborar en proyectos desafiantes y dinámicos, especialmente en:
 -  Desarrollo Backend con **Java (Spring Boot)** o **.NET (ASP.NET MVC)**.
