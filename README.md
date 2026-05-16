@@ -54,9 +54,6 @@ Estoy abierto a colaborar en proyectos desafiantes y dinámicos, especialmente e
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Minepacman&show_icons=true&theme=visual_studio_code&count_private=true" alt="Estadísticas de GitHub de Minepacman" />
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=Minepacman&theme=dark)](https://git.io/streak-stats)
-  
+<p align="center">  
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Minepacman&theme=dark" alt="GitHub Streak" /></a>  
 </p>
